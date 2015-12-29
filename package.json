@@ -1,0 +1,7 @@
+{
+  "name": "simple-stream-example",
+  "private": true,
+  "dependencies": {
+    "simple-get": "~1.4.3"
+  }
+}
