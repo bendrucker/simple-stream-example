@@ -2,6 +2,6 @@
   "name": "simple-stream-example",
   "private": true,
   "dependencies": {
-    "simple-get": "~1.4.3"
+    "simple-get": "~3.0.3"
   }
 }
